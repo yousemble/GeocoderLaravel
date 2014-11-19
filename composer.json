@@ -14,8 +14,7 @@
 
     "require" : {
         "php"                 : ">=5.3.0",
-        "illuminate/support"  : "~4.0",
-        "willdurand/geocoder" : "~2.4"
+        "willdurand/geocoder" : "2.8.0"
     },
 
     "require-dev" : {
